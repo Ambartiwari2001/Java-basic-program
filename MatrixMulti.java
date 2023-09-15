@@ -1,6 +1,6 @@
 //Java Program to multiply two matrices.
 
- class MatrixMulti {
+public class MatrixMulti {
 
 
 		public static void main(String[] args) {
@@ -29,7 +29,7 @@
 	    			System.out.print(m3[i][j]+" "); 
 	    		}
 	    	  System.out.println();
-}
+                }
 	
 }
 }
